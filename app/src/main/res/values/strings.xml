@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">I\u2229TUI DOOR</string>
+    <string-array name="serial">
+        <item>466e61a6ea39bfca</item> <!-- Tablet Entrada-->
+    </string-array>
+
+    <string name="imagen_astlix">Astlix SA de CV</string>
+    <string name="version_dummy">V 1.0</string>
+    <string name="dummy">dummy</string>
+    <string name="xspan">Xspan</string>
+    <string name="database2">Base de Datos</string>
+    <string name="gpio">GPIO</string>
+    <string name="domain_server_hint">Dominio</string>
+    <string name="url_server_hint">URL</string>
+    <string name="user_server_hint">Usuario</string>
+    <string name="pass_server_hint">Contraseña</string>
+    <string name="soap_server_hint">Soap Action</string>
+    <string name="logo_astlix">Astlix SA de CV</string>
+    <string name="butCancelar">CANCELAR</string>
+    <string name="butCrear">GUARDAR</string>
+    <string name="roja_gpio_hint">Puerto Luz Roja</string>
+    <string name="ambar_gpio_hint">Puerto Luz Ámbar</string>
+    <string name="verde_gpio_hint">Puerto Luz Verde</string>
+    <string name="sensor_gpio_hint">Puerto Sensor</string>
+    <string name="port_gpio_hint">Puerto GPIO</string>
+    <string name="tag_age_hing">Tag Age Interval in seconds</string>
+    <string name="update_xspan_hint">Update Interval In Seconds</string>
+    <string name="power_xspan_hint">Potencia</string>
+    <string name="dir_mode_hint">Direction Mode</string>
+    <string name="dir_fov_hint">Direction Field of View</string>
+    <string name="name_base_hint">Base de Datos</string>
+    <string name="server">Server</string>
+    <string name="liedos">Leídos</string>
+    <string name="esperados">Esperados</string>
+    <string name="num_contenedor">Num. Contenedor</string>
+    <string name="sku">SKU</string>
+    <string name="finish">Terminar</string>
+    <string name="port_server_hint">Puerto</string>
+    <string name="servicio_server_hint">Servicio</string>
+    <string name="usuario">Usuarios</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="butEntrar">ENTRAR</string>
+</resources>

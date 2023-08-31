@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="print_error">&#xf101;</string>
+    <string name="print_ok">&#xf102;</string>
+    <string name="rfid_error">&#xf103;</string>
+    <string name="rfid_ok">&#xf104;</string>
+    <string name="hh_error">&#xf105;</string>
+    <string name="hh_ok">&#xf106;</string>
+    <string name="busy_ic">&#xf107;</string>
+</resources>

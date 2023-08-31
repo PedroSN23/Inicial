@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_error">&#xf101;</string>
+    <string name="status_unknown">&#xf102;</string>
+    <string name="status_connected">&#xf103;</string>
+    <string name="status_idle">&#xf104;</string>
+    <string name="status_busy">&#xf105;</string>
+    <string name="status_reading">&#xf106;</string>
+</resources>

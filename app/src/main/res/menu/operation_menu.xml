@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/finish"
+        android:title="@string/finish"
+        android:visible="false"
+        android:icon="@drawable/flag"
+        app:showAsAction="always"/>
+    <item android:id="@+id/xspan"
+        android:title="@string/xspan"
+        android:icon="@drawable/xspan"
+        app:showAsAction="always"/>
+    <item android:id="@+id/gpio"
+        android:title="@string/gpio"
+        android:icon="@drawable/gpio"
+        app:showAsAction="always"/>
+    <item android:id="@+id/database"
+        android:title="@string/database2"
+        android:icon="@drawable/database"
+        app:showAsAction="always"/>
+    <item android:id="@+id/server"
+        android:title="@string/server"
+        android:icon="@drawable/server"
+        app:showAsAction="always"/>
+</menu>
